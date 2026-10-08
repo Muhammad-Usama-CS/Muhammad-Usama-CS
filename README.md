@@ -22,3 +22,27 @@ I build hands-on security labs, practice vulnerability assessment, and document 
 - 🧪 Vulnerability Assessment & Security Testing
 - 📚 Continuous Cybersecurity Learning
 - 💼 Interested in Freelance Web Pentesting & Security Assessments
+---
+
+## 🎓 Certifications & Training
+
+- 🛡️ **CHFI — Computer Hacking Forensic Investigator**
+- 🌐 **CCNA — Cisco Certified Network Associate**
+- 🐧 **RHCSA — Red Hat Certified System Administrator**
+- 🔐 **CCNP Security — In Progress**
+- 🛡️ **Google Cybersecurity Professional Certificate — In Progress**
+- 🔒 **Huawei Network Security Training**
+- ⚙️ **Scrum Fundamentals Certified**
+
+---
+
+## 🎯 Current Focus
+
+- 🔎 Web Application Penetration Testing
+- 🐞 Vulnerability Assessment & OWASP Testing
+- 🧰 Burp Suite & Security Testing Tools
+- 💉 SQL Injection & Web Security
+- 🌐 Network Security & Cisco Technologies
+- 🕵️ Digital Forensics & Incident Analysis
+- 🐧 Linux Security
+- 💼 Freelance Web Pentesting
