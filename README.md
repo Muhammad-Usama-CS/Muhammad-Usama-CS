@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=MUHAMMAD+USAMA+RAZZAQ;CYBERSECURITY+%26+BACK-END+DEVELOPMENT;WEB+PENETRATION+TESTER" alt="Cybersecurity Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=MUHAMMAD+USAMA;PENETRATION+TESTER" />
 </div>
 <div align="center">
 
