@@ -128,3 +128,29 @@ Hands-on digital forensics investigations focused on evidence analysis, incident
 **Focus:** File Analysis • Network Analysis • Evidence Handling • Incident Investigation
 
 ➡️ [View Digital Forensics Labs](#)
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/muhammad-usama-575bb52b0/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Muhammad-Usama-CS/Muhammad-Usama-CS">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_UPWORK_URL">
+<img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+
+</p>
+
+📩 **Open to:**
+- Web Application Penetration Testing
+- Vulnerability Assessment
+- Network Security Projects
+- Security Research & Testing
+- Freelance Cybersecurity Work
