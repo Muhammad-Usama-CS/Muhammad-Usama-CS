@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Cybersecurity+%7C+Web+Pentesting;Network+Security+%7C+Digital+Forensics;Security+Research+%7C+Vulnerability+Assessment" alt="Typing SVG" />
+
+</div>
 # 👋 Hi, I'm Muhammad Usama
 
 ### 🛡️ Cybersecurity | Web Pentesting | Network Security
