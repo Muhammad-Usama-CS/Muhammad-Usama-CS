@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Usama
 
-<!--
-**Muhammad-Usama-CS/Muhammad-Usama-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity | Web Pentesting | Network Security
 
-Here are some ideas to get you started:
+I'm a cybersecurity professional focused on **Web Application Security, Penetration Testing, Network Security, and Digital Forensics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build hands-on security labs, practice vulnerability assessment, and document practical cybersecurity knowledge.
+
+---
+
+## 🔐 About Me
+
+- 🔴 Web Application Penetration Testing
+- 🌐 Network Security & Cisco Technologies
+- 🕵️ Digital Forensics
+- 🐧 Linux & Security Administration
+- 🧪 Vulnerability Assessment & Security Testing
+- 📚 Continuous Cybersecurity Learning
+- 💼 Interested in Freelance Web Pentesting & Security Assessments
