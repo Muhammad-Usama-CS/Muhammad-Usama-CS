@@ -83,3 +83,48 @@ I build hands-on security labs, practice vulnerability assessment, and document 
 ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-000000?style=for-the-badge)
 ![CHFI](https://img.shields.io/badge/CHFI-000000?style=for-the-badge)
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-000000?style=for-the-badge)
+
+---
+
+## 🧪 Security Projects & Labs
+
+### 🌐 Web Application Penetration Testing
+Practical web security testing covering reconnaissance, enumeration, vulnerability discovery, exploitation, and reporting.
+
+**Tools:** Burp Suite • Nmap • ffuf • Gobuster • SQLMap
+
+➡️ [View Web Pentesting Labs](#)
+
+---
+
+### 💉 SQL Injection Security Lab
+Hands-on SQL Injection research and testing covering manual identification, payload testing, Burp Suite, and SQLMap.
+
+**Topics:** Error-Based SQLi • Union-Based SQLi • Boolean-Based SQLi • Time-Based SQLi
+
+➡️ [View SQL Injection Lab](#)
+
+---
+
+### 🔐 Burp Suite Security Labs
+Practical exercises covering HTTP requests/responses, Proxy, Repeater, Intruder, Scanner, authentication testing, and vulnerability analysis.
+
+➡️ [View Burp Suite Labs](#)
+
+---
+
+### 🌐 Network Security Labs
+Cisco-based networking and security labs involving VLANs, ACLs, OSPF, DHCP, DNS, AAA, routing, switching, and network troubleshooting.
+
+**Tools:** Cisco Packet Tracer • Wireshark • GNS3
+
+➡️ [View Network Security Labs](#)
+
+---
+
+### 🕵️ Digital Forensics Labs
+Hands-on digital forensics investigations focused on evidence analysis, incident investigation, and forensic methodology.
+
+**Focus:** File Analysis • Network Analysis • Evidence Handling • Incident Investigation
+
+➡️ [View Digital Forensics Labs](#)
