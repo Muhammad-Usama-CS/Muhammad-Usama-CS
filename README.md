@@ -46,3 +46,40 @@ I build hands-on security labs, practice vulnerability assessment, and document 
 - 🕵️ Digital Forensics & Incident Analysis
 - 🐧 Linux Security
 - 💼 Freelance Web Pentesting
+
+---
+
+## 🧰 Knowledge & Skills
+
+### 🔐 Cybersecurity & Pentesting
+![Web Security](https://img.shields.io/badge/Web%20Security-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 🌐 Network Security
+![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-000000?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-000000?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-000000?style=for-the-badge)
+![ACL](https://img.shields.io/badge/ACL-000000?style=for-the-badge)
+
+### 🐧 Systems & Security Administration
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-000000?style=for-the-badge&logo=redhat&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🔎 Security Tools
+![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
+![ffuf](https://img.shields.io/badge/ffuf-000000?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge)
+
+### 🕵️ Digital Forensics
+![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-000000?style=for-the-badge)
+![CHFI](https://img.shields.io/badge/CHFI-000000?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-000000?style=for-the-badge)
